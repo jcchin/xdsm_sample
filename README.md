@@ -1,1 +1,1 @@
-https://jcchin.github.io/xdsm
+https://jcchin.github.io/xdsm_sample
